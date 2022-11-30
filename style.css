@@ -1,0 +1,17 @@
+.counter-container {
+  max-width: 274px;
+  margin-top: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.btns {
+  margin-top: 20px;
+}
+#counter {
+  font-size: 30px;
+  text-align: center;
+  border: 2px solid #f08080;
+  border-radius: 10px;
+}
